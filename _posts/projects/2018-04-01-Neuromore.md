@@ -4,23 +4,23 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "neuromore, signal processing, realtime, consciousness"
 
 project:
   title: "Neuromore"
   type: "Technical & Marketing"
   url: "https://neuromore.com"
   logo: "/assets/images/projects/neuromore/logo.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
+  tech: "C++, Qt, Signal Processing, Cassandra, React, React Native"
 
 agency:
   title: "Neuromore"
   url: "https://neuromore.com"
-  year: "2017"
+  year: "2018"
 
 images:
   - image:
     url: "/assets/images/projects/neuromore/desktop.jpg"
-    alt: "Red Pineapple website on tablet, mobile and desktop"
+    alt: "Exploring consciousness with the Muse and EEGs"
 ---
-<p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
+<p>Helping Neuromore grow into unexplored markets, and share it's beautiful development environment with the world.</p>
