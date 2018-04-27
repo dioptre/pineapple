@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/neuromore/desktop.jpg"
     alt: "Exploring consciousness with the Muse and EEGs"
 ---
-<p>Helping Neuromore grow into unexplored markets, and share it's beautiful development environment with the world.</p>
+<p>Helping Neuromore grow into unexplored markets, and share it's beautiful and realtime signal processing development environment with the world.</p>
