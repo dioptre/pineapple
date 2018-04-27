@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/neuromore/desktop.jpg"
     alt: "Exploring consciousness with the Muse and EEGs"
 ---
-<p>Assisting Neuromore grow into unexplored markets and sharing it's beautiful and realtime signal processing development environment with the world. Improving scalability.</p>
+<p>We are improving scalability and bringing Neuromore to the world. It's realtime programming approach and beautiful signal processing development environment is entirely unique. It has unlimited potential and already been documented assisting patients with PTSD.</p>
