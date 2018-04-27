@@ -10,7 +10,7 @@ project:
   title: "Orchid Protocol"
   type: "Technical & Marketing"
   url: "https://orchid.com"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/orchid/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
