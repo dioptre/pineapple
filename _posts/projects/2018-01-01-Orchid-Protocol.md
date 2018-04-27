@@ -4,17 +4,17 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "block-chain, orchid protocol, orchid labs, decentralized vpn, orchid"
 
 project:
   title: "The Orchid Protocol"
   type: "Technical & Marketing"
   url: "https://orchid.com"
   logo: "/assets/images/projects/orchid/logo.png"
-  tech: "Go, Typescript, STUN, Javascript, Angular, Node.js"
+  tech: "Go, Typescript, STUN, Javascript, Angular, Consensus, Distributed Networking, Node.js"
 
 agency:
-  title: "Orchid Labs"
+  title: "Orchid Labs, Mesh Labs"
   url: "https://orchid.com"
   year: "2018"
 
