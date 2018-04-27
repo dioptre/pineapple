@@ -9,13 +9,13 @@ meta:
 project:
   title: "Neuromore"
   type: "Technical & Marketing"
-  url: "https://neuromore.com"
+  url: "http://neuromore.com"
   logo: "/assets/images/projects/neuromore/logo.png"
   tech: "C++, Qt, Signal Processing, Cassandra, React, React Native"
 
 agency:
   title: "Neuromore"
-  url: "https://neuromore.com"
+  url: "http://neuromore.com"
   year: "2018"
 
 images:
