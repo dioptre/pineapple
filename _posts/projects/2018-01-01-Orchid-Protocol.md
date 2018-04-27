@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Orchid Protocol"
+  title: "The Orchid Protocol"
   type: "Technical & Marketing"
   url: "https://orchid.com"
   logo: "/assets/images/projects/orchid/logo.png"
