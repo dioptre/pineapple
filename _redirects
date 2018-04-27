@@ -1,0 +1,3 @@
+# Redirect domain aliases to primary domain
+https://www.sfproductlabs.com/* https://sfproductlabs.com/:splat 301!
+http://www.sfproductlabs.com/* https://sfproductlabs.com/:splat 301!
