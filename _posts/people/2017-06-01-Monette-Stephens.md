@@ -9,10 +9,10 @@ meta:
 person:
   id: "ms"
   title: "Monette Stephens"
-  type: "Partner"
+  type: "Growth"
   url: "https://linkedin.com/in/monettestephens"
   img: "/assets/images/people/ms.jpg"
-  desc: "Expert in taking ICO to market. M&A and Private Equity specialist. Startup and Enterprise executive with 4 successful exits. Founded Investment bank focused on minimizing risk and maximizing value. Expert on DOJ vs. Microsoft Antitrust litigation. Climbed peaks on 5 continents."
+  desc: "Expert taking ICO to market. M&A and Private Equity specialist. Startup and Enterprise executive with 4 successful exits. Founded Investment bank focused on minimizing risk and maximizing value. Expert on DOJ vs. Microsoft Antitrust litigation. Climbed peaks on 5 continents."
 
 images:
   - image:
