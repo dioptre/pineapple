@@ -6,5 +6,6 @@ var sr = ScrollReveal({
 	scale    : 1
 });
 
+sr.reveal('.people-list a');
 sr.reveal('.projects-list a');
 sr.reveal('.posts-list a');

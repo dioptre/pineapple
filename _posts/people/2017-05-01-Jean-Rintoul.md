@@ -9,7 +9,7 @@ meta:
 person:
   id: "jr"
   title: "Jean Rintoul"
-  type: "Physics"
+  type: "Physics & Imagery"
   url: "https://linkedin.com/in/jeanrintoul"
   img: "/assets/images/people/jr.jpg"
   desc: "Engineer and physicist experienced in AI, biosensor algorithms, consumer-electronics, wearables & impedence tomography. My mission is to close the loop between humans and technology. Expert in Hardware (PCB) Design, Firmware and Python."
