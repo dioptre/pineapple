@@ -9,7 +9,7 @@ twitter: "https://twitter.com/sfproductlabs"
 github: "https://github.com/sfproductlabs"
 
 # Site config
-baseurl: "https://sfproductlabs.com"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss

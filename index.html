@@ -18,24 +18,26 @@
 				<p>{{ site.description }}</p>
 			</div>
 		</section>
-		<section class="projects">
+		<section class="people">
 			<div class="container">
 				<h2>Our People.</h2>
-				<ul class="projects-list">
+				<ul class="people-list">
 					{% for item in site.categories.people %}
 						<li>
-							<a href="{{ item.url | prepend: site.baseurl }}">
-								<div class="img-wrapper">
-									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+							<a href="{{ item.person.url }}">
+								<style>#{{ item.person.id }}:before { content: "{{ item.person.desc }}";}</style>
+								<div class="img-wrapper" id="{{ item.person.id }}">
+									<img src="{{ item.person.img | prepend: site.baseurl }}" alt="{{ item.person.title }}" />
 								</div>
-								<span class="h2">{{ item.project.type }}</span>
-								<h3>{{ item.project.title }}</h3>
+								<span class="h2">{{ item.person.type }}</span>
+								<h3>{{ item.person.title }}</h3>
 							</a>
 						</li>
 					{% endfor %}
 				</ul>
 			</div>
 		</section>
+		<br/>
 		<section class="projects">
 			<div class="container">
 				<h2>Projects we have worked on.</h2>
