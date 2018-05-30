@@ -1,10 +1,10 @@
 ---
 services:
   - title: Fullstack application development
-    desc: "Build at lightning speed. Best practices, rapid prototyping, UI/UX Development, Lean Startup method, with blockchain, scalability and security experts."
+    desc: "Build for scale. Build at lightning speed. Best practices, rapid prototyping, UI/UX Development, Lean Startup method, with blockchain, scalability and security experts."
     color: ae81ff
   - title: Growth Strategy & Execution
-    desc: "Find your niche. Innovate your niche. Hypothesize, and justify your competitive advantage. Test and explore growth as you've never experienced it."
+    desc: "Find your niche. Innovate your niche. Hypothesize, find gaps and justify your competitive advantage. Test and explore growth as you've never experienced it."
     color: f92672
   - title: Technology Audit & Cleanup
     desc: "Own your investment. Know your infrastructure, understand your product value, protect it against risks. Ensure best I.T. practices are being followed."
@@ -12,8 +12,8 @@ services:
   - title: Due Diligence
     desc: "Business, Financial, Technical, Market, IP and Security diligence."
     color: 66d9ef
-  - title: AI, Data Science & Analytics
-    desc: "We live in an age where if you can't justify what you're doing without data to back it up, it's probably nonsense. Upgrade your insight and learn to use data like a pro."
+  - title: ML, AI, Data Science & Analytics
+    desc: "We live in an age where if you can't justify what you're doing without data to back it up. We use state of the art neural networks, supervised and unsupervised learning techniques. Upgrade your insight and learn to use data like a pro."
     color: e6db74
   - title: Business Analysis & Modeling
     desc: "Understand your business better than your competitors. Look for complementary partners. Find the gap and nail it with a data driver."
@@ -42,17 +42,20 @@ services:
 				<h2>Our Services.</h2>
 				<ul class="services-list">
 					{% for item in page.services %}
-						<li style="padding: 1rem; padding-top:3rem; margin: 1.5rem; min-height:380px; max-height:380px; min-width: 380px; max-width:380px; background-color: #{{item.color}};">
-							<h1>{{ item.title }}</h1>
-							<br/><br/>
-							<div class="img-wrapper">
-								<p>{{ item.desc }}</p>
+						<li>
+							<div style="min-height: 355px; padding:3rem; margin-left: 1.5rem; margin-right: 1.5rem; margin-bottom: 1.5rem; background-color: #{{item.color}};">
+								<h1>{{ item.title }}</h1>
+								<br/><br/>
+								<div class="img-wrapper">
+									<p>{{ item.desc }}</p>
+								</div>
 							</div>
 						</li>
 					{% endfor %}
 				</ul>
 			</div>
 		</section>		
+		<br/>
 		<section class="intro">
 			<div class="container">
 				<h2>What we do.</h2>
@@ -78,6 +81,7 @@ services:
 				</ul>
 			</div>
 		</section>
+		<br/>
 		<section class="intro">
 			<div class="container">
 				<h2>Contact an AI, cryptocurrency, blockchain and growth expert.</h2>
