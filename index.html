@@ -42,9 +42,9 @@ services:
 				<h2>Our Services.</h2>
 				<ul class="services-list">
 					{% for item in page.services %}
-						<li style="padding: 1rem; margin: 1.5rem; min-height:399px; max-height:399px; min-width: 380px; max-width:380px; background-color: #{{item.color}};">
+						<li style="padding: 1rem; padding-top:3rem; margin: 1.5rem; min-height:380px; max-height:380px; min-width: 380px; max-width:380px; background-color: #{{item.color}};">
 							<h1>{{ item.title }}</h1>
-							<br/>
+							<br/><br/>
 							<div class="img-wrapper">
 								<p>{{ item.desc }}</p>
 							</div>
