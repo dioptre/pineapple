@@ -65,12 +65,13 @@
 
 		li {
 			float: left;
-			width: 50%;
+			width: 48%;		
+			padding-right: 1%;
 			div.service-box {
-				margin-right:1.5rem;		
-				min-height: 355;	
+				margin-right:0rem;		
+				min-height: 400px;	
 				div {
-					min-height: 355px;
+					min-height: 400px;
 				}	
 			}
 		}
@@ -82,29 +83,33 @@
 
 	@media (min-width: $breakpoint-medium) {
 		li {
-			width: 33.33333%;
+			max-width: 29%;
+			padding-right: 1%;
+			margin-bottom: 3rem;
 			div.service-box {
-				margin-right:1.5rem;		
-				min-height: 355;	
+				margin-right:0%;		
+				min-height: 400px;
 				div {
-					min-height: 355px;
+					min-height: 400px;
 				}	
 			}
 		}
 	}
 
 	li {
-		margin-bottom: 3rem;
+		margin-bottom: 3rem;		
 		div.service-box {
-			margin-right:1.5rem;		
-			min-height: 355;	
+			margin-right:0%;		
+			min-height: 400px;	
+			overflow: hidden;
+			text-overflow: ellipsis;
 			div {
-				min-height: 355px;
+				max-height: 400px;
 			}			
 		}
 
 		&:last-child {
-			margin-bottom: 0;
+			margin-bottom: 3rem;
 		}
 	}
 
@@ -125,7 +130,9 @@
 
 	.img-wrapper {
 		position: relative;
-
+		p {
+			text-overflow: ellipsis;
+		}
 		&:before {
 			content: "View Project";
 			color: $color-white;
