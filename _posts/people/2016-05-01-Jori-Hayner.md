@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "jh"
+  title: "Jori Hayner"
+  type: "Forensic Accounting"
+  url: "https://linkedin.com/in/adever/"
+  img: "/assets/images/people/jh.jpg"
+  desc: "Deep experience in financial analysis and forensic accounting. Wonderful at translating your growth ideas into a dynamic business model. She's quantified damages in some of the nation’s largest lawsuits, and understands risk mitigation and costs of non-compliance."
 
 images:
   - image:

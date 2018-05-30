@@ -1,4 +1,23 @@
 ---
+services:
+  - title: Fullstack application development
+    desc: "Build at lightning speed. Best practices, rapid prototyping, UI/UX Development, Lean Startup method, Salesforce configuration."
+    color: ae81ff
+  - title: Growth Strategy & Execution
+    desc: "Find your niche. Innovate your niche. Hypothesize, and justify your competitive advantage. Test and explore growth as you've never experienced it."
+    color: f92672
+  - title: Technology Audit & Cleanup
+    desc: "Own your investment. Know your infrastructure, understand your product value, protect it against risks. Ensure best I.T. practices are being followed."
+    color: a6e22e
+  - title: Due Diligence
+    desc: "Business, Financial, Technical, Market, IP and Security diligence."
+    color: 66d9ef
+  - title: AI, Data Science & Analytics
+    desc: "We live in an age where if you can't justify what you're doing without data to back it up, it's probably nonsense. Upgrade your insight and learn to use data like a pro."
+    color: e6db74
+  - title: Business Analysis & Modeling
+    desc: "Understand your business better than your competitors. Look for complementary partners. Find the gap and nail it with a data driver."
+    color: ae81ff
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -16,6 +35,28 @@
 			<div class="container">
 				<h2>About us.</h2>
 				<p>{{ site.description }}</p>
+			</div>
+		</section>
+		<section class="services">
+			<div class="container">
+				<h2>Our Services.</h2>
+				<ul class="services-list">
+					{% for item in page.services %}
+						<li style="padding: 1rem; margin: 1.5rem; min-height:399px; max-height:399px; min-width: 380px; max-width:380px; background-color: #{{item.color}};">
+							<h1>{{ item.title }}</h1>
+							<br/>
+							<div class="img-wrapper">
+								<p>{{ item.desc }}</p>
+							</div>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</section>		
+		<section class="intro">
+			<div class="container">
+				<h2>What we do.</h2>
+				<p>Growth, technology and business experts who specialize in helping startups and companies improve their valuation.</p>
 			</div>
 		</section>
 		<section class="people">
@@ -37,7 +78,12 @@
 				</ul>
 			</div>
 		</section>
-		<br/>
+		<section class="intro">
+			<div class="container">
+				<h2>Contact an AI, cryptocurrency, blockchain and growth expert.</h2>
+				<p>Ask us about how we've helped Uber, Tumblr, and other billion dollar Fintech startups improve their valuation.</p>
+			</div>
+		</section>		
 		<section class="projects">
 			<div class="container">
 				<h2>Projects we recently worked on.</h2>

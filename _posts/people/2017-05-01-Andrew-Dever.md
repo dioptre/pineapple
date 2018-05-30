@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "ad"
+  title: "Andrew Dever"
+  type: "Growth"
+  url: "https://linkedin.com/in/adever/"
+  img: "/assets/images/people/ad.jpg"
+  desc: "Growth consultant to billion dollar startups. Serial Entrepreneur turned Growth EIR. Focus on identifying highest ROI growth opportunities–helping teams prioritize and achieve growth through technology, methodology, strategy, and execution."
 
 images:
   - image:

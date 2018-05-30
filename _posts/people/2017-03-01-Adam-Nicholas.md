@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "an"
+  title: "Adam Nicholas"
+  type: "Creative"
+  url: "https://www.linkedin.com/in/adam-nicholas-1413b9a8/"
+  img: "/assets/images/people/an.jpg"
+  desc: "Adam is a multi disciplinary creative expert intimately familiar with trends. He loves applying his business experience in arts and communications from Europe, Asia, and Africa directly to the the startup world, where cool is unfamiliar territory."
 
 images:
   - image:

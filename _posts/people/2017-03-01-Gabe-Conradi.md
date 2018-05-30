@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "gc"
+  title: "Gabe Conradi"
+  type: "Scalability"
+  url: "https://github.com/byxorna/resume/blob/master/resume.md"
+  img: "/assets/images/people/gc.jpg"
+  desc: "Gabe has been a long term cloud scalability architect for exponentially growing startups (Tumblr and Uber). He has intimate technical knowledge of growing pains and is incredibly adept at identifying and leading a team to crush them."
 
 images:
   - image:

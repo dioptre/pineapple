@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "rs"
+  title: "Rodrigo Sara"
+  type: "International Counsel"
+  url: "https://linkedin.com/in/rodrigo-sara-11120013/"
+  img: "/assets/images/people/rs.jpg"
+  desc: "IP & commercial lawyer with private practice, in-house and consulting experience gained in agricultural tech-transfer, telecoms, entertainment and emerging market focused roles. Extensive international experience coupled with a passion for working at the interface of technology, law and business development, with an increasing focus on global access and impact acceleration."
 
 images:
   - image:

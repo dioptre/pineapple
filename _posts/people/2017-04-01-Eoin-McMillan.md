@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "em"
+  title: "Eoin McMillan"
+  type: "Product Management"
+  url: "https://linkedin.com/in/eoin-mcmillan-1a71784/"
+  img: "/assets/images/people/em.jpg"
+  desc: "Expert in product development and facilitation with detailed knowledge of startups. Previously consulted at PwC and Capgemini. Highly technical and able to communicate at any level. Will hasten change by connecting people to each other and information in the world around them"
 
 images:
   - image:

@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "ag"
-  title: "Andrew Grosser"
-  type: "Fullstack"
-  url: "https://linkedin.com/in/agrosser"
-  img: "/assets/images/people/ag.jpg"
-  desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and cosult in block-chain."
+  id: "jj"
+  title: "Jeff Jenkins"
+  type: "Front End Developer"
+  url: "https://linkedin.com/in/jeff-jenkins-9b4a7665/"
+  img: "/assets/images/people/jj.jpg"
+  desc: "Jeff has been a long term expert and consultant in full-stack Javascript. He's written the book on starting out in React, and improved the management and development processes for a number of very large clients including Capital One and Nginx."
 
 images:
   - image:
