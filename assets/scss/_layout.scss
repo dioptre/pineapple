@@ -66,6 +66,13 @@
 		li {
 			float: left;
 			width: 50%;
+			div.service-box {
+				margin-right:1.5rem;		
+				min-height: 355;	
+				div {
+					min-height: 355px;
+				}	
+			}
 		}
 
 		a {
@@ -76,11 +83,25 @@
 	@media (min-width: $breakpoint-medium) {
 		li {
 			width: 33.33333%;
+			div.service-box {
+				margin-right:1.5rem;		
+				min-height: 355;	
+				div {
+					min-height: 355px;
+				}	
+			}
 		}
 	}
 
 	li {
 		margin-bottom: 3rem;
+		div.service-box {
+			margin-right:1.5rem;		
+			min-height: 355;	
+			div {
+				min-height: 355px;
+			}			
+		}
 
 		&:last-child {
 			margin-bottom: 0;
