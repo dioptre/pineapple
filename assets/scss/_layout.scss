@@ -91,6 +91,7 @@
 				min-height: 400px;
 				div {
 					min-height: 400px;
+					max-height: 400px;
 				}	
 			}
 		}
@@ -101,8 +102,7 @@
 		div.service-box {
 			margin-right:0%;		
 			min-height: 400px;	
-			overflow: hidden;
-			text-overflow: ellipsis;
+			overflow: hidden;			
 			div {
 				max-height: 400px;
 			}			
@@ -131,7 +131,7 @@
 	.img-wrapper {
 		position: relative;
 		p {
-			text-overflow: ellipsis;
+			text-overflow: ellipsis !important;
 		}
 		&:before {
 			content: "View Project";
