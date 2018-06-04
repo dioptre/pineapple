@@ -10,7 +10,7 @@ person:
   id: "jh"
   title: "Jori Hayner"
   type: "Forensic Accounting"
-  url: "https://linkedin.com/in/adever/"
+  url: "https://www.linkedin.com/in/jorihayner"
   img: "/assets/images/people/jh.jpg"
   desc: "Deep experience in financial analysis and forensic accounting. Wonderful at translating your growth ideas into a dynamic business model. She's quantified damages in some of the nation’s largest lawsuits, and understands risk mitigation and costs of non-compliance."
 
