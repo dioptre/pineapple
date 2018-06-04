@@ -12,7 +12,7 @@ person:
   type: "Prototyping & Mobile"
   url: "https://www.linkedin.com/in/theprofessionalamateur/"
   img: "/assets/images/people/sc.jpg"
-  desc: "Steve is a lifelong programmer, maker, hardware hacker, serial entrepreneur, and supporter of all things open source."
+  desc: "Steve is a lifelong programmer, maker, hardware hacker, serial entrepreneur, and supporter of all things open source. Best known for founding bio-sensor tech company Puzzlebox."
 
 images:
   - image:
