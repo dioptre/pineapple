@@ -71,7 +71,7 @@ services:
 					{% for item in site.categories.people %}
 						<li>
 							<a href="{{ item.person.url }}">
-								<style>#{{ item.person.id }}:before { content: "{{ item.person.desc }}"; overflow-y: auto }</style>
+								<style>#{{ item.person.id }}:before { content: "{{ item.person.desc }}"; overflow-y: auto; }</style>
 								<div class="img-wrapper" id="{{ item.person.id }}">
 									<img src="{{ item.person.img | prepend: site.baseurl }}" alt="{{ item.person.title }}" />
 								</div>

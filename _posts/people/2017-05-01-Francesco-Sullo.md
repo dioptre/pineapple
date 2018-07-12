@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "jr"
-  title: "Jean Rintoul"
-  type: "Physics & Wearables"
-  url: "https://linkedin.com/in/jeanrintoul"
-  img: "/assets/images/people/jr.jpg"
-  desc: "Engineer and physicist experienced in AI, biosensor algorithms, consumer-electronics, wearables & impedence tomography. My mission is to close the loop between humans and technology. Expert in Hardware (PCB) Design, Firmware and Python."
+  id: "fs"
+  title: "Francesco Sullo"
+  type: "Blockchain & DApp Engineer"
+  url: "https://www.linkedin.com/in/francescosullo/"
+  img: "/assets/images/people/fs.jpg"
+  desc: "Born creative. Successful exits. Involved in Art, Music and Movies. Fullstack engineer, serial entrepreur and crypto enthusiast. Currently enjoy developing DApps on the Ethereum blockchain."
 
 images:
   - image:

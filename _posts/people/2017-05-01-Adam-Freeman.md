@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "jr"
-  title: "Jean Rintoul"
-  type: "Physics & Wearables"
-  url: "https://linkedin.com/in/jeanrintoul"
-  img: "/assets/images/people/jr.jpg"
-  desc: "Engineer and physicist experienced in AI, biosensor algorithms, consumer-electronics, wearables & impedence tomography. My mission is to close the loop between humans and technology. Expert in Hardware (PCB) Design, Firmware and Python."
+  id: "af"
+  title: "Adam Freeman"
+  type: "MD & Ph.D. Epigenetics"
+  url: "https://www.linkedin.com/in/adam-freeman-6572204a/"
+  img: "/assets/images/people/af.jpg"
+  desc: "In my roles as both a medical doctor and geneticist I like finding simple, practical solutions to complex problems. I enjoy working on surgical technologies and all things in genomics and epigenetics."
 
 images:
   - image:
