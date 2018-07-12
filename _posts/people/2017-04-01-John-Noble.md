@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "jr"
-  title: "Jean Rintoul"
-  type: "Physics & Wearables"
-  url: "https://linkedin.com/in/jeanrintoul"
-  img: "/assets/images/people/jr.jpg"
-  desc: "Engineer and physicist experienced in AI, biosensor algorithms, consumer-electronics, wearables & impedence tomography. My mission is to close the loop between humans and technology. Expert in Hardware (PCB) Design, Firmware and Python."
+  id: "jn"
+  title: "John Noble"
+  type: "Climate Data Scientist"
+  url: "https://www.linkedin.com/in/jnoble1/"
+  img: "/assets/images/people/jn.jpg"
+  desc: "Former researcher at NASA Ames Research Center. Studied Martian atmosphere for over 10 years. Expert in software development and atmospheric science. Has an M.S. in Meteorology."
 
 images:
   - image:
