@@ -10,7 +10,7 @@ person:
   id: "af"
   title: "Adam Freeman"
   type: "MD & Ph.D. Epigenetics"
-  url: "https://www.linkedin.com/in/adam-freeman-6572204a/"
+  url: "https://linkedin.com/in/adam-freeman-6572204a"
   img: "/assets/images/people/af.jpg"
   desc: "In my roles as both a medical doctor and geneticist I like finding simple, practical solutions to complex problems. I enjoy working on surgical technologies and all things in genomics and epigenetics."
 
