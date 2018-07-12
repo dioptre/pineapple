@@ -9,7 +9,7 @@ meta:
 person:
   id: "jn"
   title: "John Noble"
-  type: "Atmosperic & Data Scientist"
+  type: "Atmospheric & Data Scientist"
   url: "https://www.linkedin.com/in/jnoble1/"
   img: "/assets/images/people/jn.jpg"
   desc: "Former researcher at NASA Ames Research Center. Studied Martian atmosphere for over 10 years. Expert in software development and atmospheric science. Has an M.S. in Meteorology."
