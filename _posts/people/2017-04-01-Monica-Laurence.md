@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "an"
-  title: "Adam Nicholas"
-  type: "Strategic Communications"
-  url: "https://www.linkedin.com/in/adam-nicholas-1413b9a8/"
-  img: "/assets/images/people/an.jpg"
-  desc: "Adam is a multi disciplinary creative expert intimately familiar with trends. He loves applying his business experience in arts and communications from Europe, Asia, and Africa directly to the the startup world, where cool is unfamiliar territory."
+  id: "ml"
+  title: "Monica Laurence"
+  type: "Authentic Branding"
+  url: "https://www.linkedin.com/in/monicalaurence/"
+  img: "/assets/images/people/ml.jpg"
+  desc: "Monica is a brand strategist and experience designer.  She crafts ascendant brands, compelling business strategies, and strong narratives to attract loyal brand ambassadors."
 
 images:
   - image:

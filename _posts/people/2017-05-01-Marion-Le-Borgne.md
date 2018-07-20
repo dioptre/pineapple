@@ -7,12 +7,12 @@ meta:
   keywords: "SF Product Labs People"
 
 person:
-  id: "an"
-  title: "Adam Nicholas"
-  type: "Strategic Communications"
-  url: "https://www.linkedin.com/in/adam-nicholas-1413b9a8/"
-  img: "/assets/images/people/an.jpg"
-  desc: "Adam is a multi disciplinary creative expert intimately familiar with trends. He loves applying his business experience in arts and communications from Europe, Asia, and Africa directly to the the startup world, where cool is unfamiliar territory."
+  id: "mlb"
+  title: "Marion Le Borgne"
+  type: "AI & Software Engineer"
+  url: "https://www.linkedin.com/in/marionleborgne/"
+  img: "/assets/images/people/mlb.jpg"
+  desc: "Artificial Intelligence expert. Full-stack Product Engineer with a focus on Data & Analytics. Former VC Analyst. Proven entrepreneur and co-founder of NeuroTechX."
 
 images:
   - image:
