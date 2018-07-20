@@ -56,7 +56,7 @@ services:
 					{% endfor %}
 				</ul>
 			</div>
-		</section>		
+		</section>
 		<br/>
 		<section class="intro">
 			<div class="container">
@@ -71,7 +71,12 @@ services:
 					{% for item in site.categories.people %}
 						<li>
 							<a href="{{ item.person.url }}">
-								<style>#{{ item.person.id }}:before { content: "{{ item.person.desc }}"; overflow-y: auto; }</style>
+								<style>
+									#{{ item.person.id }}:before { content: "{{ item.person.desc }}"; }
+                                    @media screen and (min-width: 40.0rem) {
+                                        #{{ item.person.id }}:before { overflow-y: auto; }
+                                    }
+								</style>
 								<div class="img-wrapper" id="{{ item.person.id }}">
 									<img src="{{ item.person.img | prepend: site.baseurl }}" alt="{{ item.person.title }}" />
 								</div>
@@ -89,7 +94,7 @@ services:
 				<h2>Contact an AI, cryptocurrency, blockchain and growth expert.</h2>
 				<p>Ask us about how we've helped startups, Uber, Disney, and other billion dollar fintech companies improve their valuation.</p>
 			</div>
-		</section>		
+		</section>
 		<section class="projects">
 			<div class="container">
 				<h2>Projects we recently worked on.</h2>
