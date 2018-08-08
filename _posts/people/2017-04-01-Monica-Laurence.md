@@ -12,7 +12,7 @@ person:
   type: "Authentic Branding"
   url: "https://www.linkedin.com/in/monicalaurence/"
   img: "/assets/images/people/ml.jpg"
-  desc: "Monica is a brand strategist and experience designer.  She crafts ascendant brands, compelling business strategies, and strong narratives to attract loyal brand ambassadors."
+  desc: "Expert brand strategist and experience designer. Crafts ascendant brands, innovative business strategies, and strong narratives to attract loyal brand ambassadors."
 
 images:
   - image:
