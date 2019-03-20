@@ -4,7 +4,7 @@ permalink: /:title/
 category: people
 
 meta:
-  keywords: "SF Product Labs People"
+  keywords: "SFPL People"
 
 person:
   id: "ml"
