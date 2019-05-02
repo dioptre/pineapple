@@ -12,7 +12,7 @@ person:
   type: "Energy Storage Consultant, BE (Mech.)"
   url: "https://www.linkedin.com/in/stuart-holt-5453a512/"
   img: "/assets/images/people/sh.jpg"
-  desc: "Residing part time in Hong Kong and China, he started trading/sourcing/QA in native Chinese electronics, batteries, lithium storage products and solar PV in 2013 worldwide."
+  desc: "Residing part time in Hong Kong and China, he started trading; sourcing; and doing QA in native Chinese from 2013. He specializes in electronics, batteries, lithium storage products and solar PV and organizes quality shipments worldwide."
 
 images:
   - image:
