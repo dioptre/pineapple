@@ -21,7 +21,10 @@ agency:
 images:
   - image:
     url: "/assets/images/projects/epicentre/desktop.jpg"
-    alt: "Solar cells and energy provided to epicentre"
+    alt: "Solar cells and energy storage provided to epicentre from the air"
+  - image:
+    url: "/assets/images/projects/epicentre/solar-cells.jpg"
+    alt: "Solar cells being installed star trooper style"    
     
 ---
 <p>Energy Storage Provider</p>
