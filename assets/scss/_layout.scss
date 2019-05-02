@@ -244,8 +244,7 @@
 			@include clearfix;
 		}
 
-		@media (min-width: $breakpoint-medium) {
-			float: left;
+		@media (min-width: $breakpoint-medium) {			
 			width: 55%;
 		}
 	}
