@@ -12,7 +12,7 @@ services:
   - title: Growth Strategy & Execution
     desc: "Know your customer and reach your market. Become viral. Scale. Think of us as an ethical Cambridge Analytica."
     color: f92672
-  - title: Fullstack application development & DevOps
+  - title: Fullstack software development & application DevOps
     desc: "Build for scale. Build at lightning speed. Build at your budget. Best Fullstack, Native, iOS, Android, ML, blockchain, scalability and security experts helping some of the biggest and smallest brands in the business."
     color: e6db74
   - title: Data Science, Data Warehousing, Analytics & Due Diligence
@@ -64,6 +64,31 @@ services:
 				<p>We are Technology, Growth and business experts who specialize in helping startups and companies succeed.</p>
 			</div>			
 		</section>
+		<section class="projects">
+			<div class="container">
+				<h2>Projects we recently worked on.</h2>
+				<ul class="projects-list">
+					{% for item in site.categories.projects %}
+						<li>
+							<a href="{{ item.url | prepend: site.baseurl }}">
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
+								</div>
+								<span class="h2">{{ item.project.type }}</span>
+								<h3>{{ item.project.title }}</h3>
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</section>
+		<br/>
+		<section class="intro">
+			<div class="container">
+				<h2>Contact an AI, cryptocurrency, blockchain and growth expert.</h2>
+				<p>Ask us about how we've helped startups, Uber, Disney, and other billion dollar fintech companies improve their valuation.</p>
+			</div>
+		</section>
 		<section class="people">
 			<div class="container">
 				<h2>Our People.</h2>
@@ -82,31 +107,6 @@ services:
 								</div>
 								<span class="h2">{{ item.person.type }}</span>
 								<h3>{{ item.person.title }}</h3>
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</section>
-		<br/>
-		<section class="intro">
-			<div class="container">
-				<h2>Contact an AI, cryptocurrency, blockchain and growth expert.</h2>
-				<p>Ask us about how we've helped startups, Uber, Disney, and other billion dollar fintech companies improve their valuation.</p>
-			</div>
-		</section>
-		<section class="projects">
-			<div class="container">
-				<h2>Projects we recently worked on.</h2>
-				<ul class="projects-list">
-					{% for item in site.categories.projects %}
-						<li>
-							<a href="{{ item.url | prepend: site.baseurl }}">
-								<div class="img-wrapper">
-									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
-								</div>
-								<span class="h2">{{ item.project.type }}</span>
-								<h3>{{ item.project.title }}</h3>
 							</a>
 						</li>
 					{% endfor %}

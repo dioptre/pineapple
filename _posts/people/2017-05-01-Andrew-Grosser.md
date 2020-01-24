@@ -9,7 +9,7 @@ meta:
 person:
   id: "ag"
   title: "Andrew Grosser"
-  type: "Fullstack"
+  type: "CTO For Hire"
   url: "https://linkedin.com/in/agrosser"
   img: "/assets/images/people/ag.jpg"
   desc: "Tech Fixer & Blockchain Savant. Began coding 4 years old. Started Quantum Cryptography in Australia. Built 7 figure business from the ground. Facilitated C round investment. Avid teacher and mentor. Hedge fund, AI & BCI algorithm builder. Business consultant with over 15 years in startups and enterprise. Well versed and consult in block-chain."
