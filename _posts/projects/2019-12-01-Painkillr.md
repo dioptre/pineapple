@@ -20,7 +20,7 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/valid9/iphone-intro.png"
+    url: "/assets/images/projects/painkillr/screens.png"
     alt: "The Painkillr app"
     
 ---
