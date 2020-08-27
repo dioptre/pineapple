@@ -16,3 +16,6 @@ sass:
   sass_dir: assets/scss
   style: compressed
 include: ["_redirects"]
+url: "https://sfpl.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
