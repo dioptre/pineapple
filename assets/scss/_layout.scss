@@ -70,8 +70,12 @@
 			div.service-box {
 				margin-right:0rem;		
 				min-height: 400px;	
+				padding:4.5rem;
 				div {
 					min-height: 400px;
+					.img-wrapper {
+						font-size:16px;
+					}
 				}	
 			}
 		}
@@ -83,12 +87,13 @@
 
 	@media (min-width: $breakpoint-medium) {
 		li {
-			max-width: 29%;
 			padding-right: 1%;
 			margin-bottom: 3rem;
+			max-width: 29%;
 			div.service-box {
 				margin-right:0%;		
 				min-height: 400px;
+				padding:4.5rem;
 				div {
 					min-height: 400px;
 					max-height: 400px;
@@ -102,7 +107,8 @@
 		div.service-box {
 			margin-right:0%;		
 			min-height: unset;	
-			overflow: hidden;			
+			overflow: hidden;
+			padding:4.5rem;			
 			div {
 				max-height: 400px;
 			}			
